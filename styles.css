@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Cardo', serif;
-    background-color: #e8e4dd;
+    background: transparent linear-gradient(180deg, #DBD7D1 0%, #DDD8CE 18%, #FAEF9C 100%, #FDF296 100%, #FDF296 100%) 0% 0% no-repeat padding-box;
     color: #000000;
     min-height: 100vh;
     display: flex;
