@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Cardo', serif;
+    font-family: "cardo", serif;
     background: transparent linear-gradient(180deg, #DBD7D1 0%, #DDD8CE 18%, #FAEF9C 100%, #FDF296 100%, #FDF296 100%) 0% 0% no-repeat padding-box;
     color: #000000;
     min-height: 100vh;
@@ -25,7 +25,7 @@ header {
 }
 
 .logo {
-    font-family: 'Cardo', serif;
+    font-family: "cardo", serif;
     font-style: italic;
     font-size: 36px;
     font-weight: 400;
@@ -47,7 +47,7 @@ main {
 }
 
 .tagline {
-    font-family: 'Archivo Expanded', sans-serif;
+    font-family: "archivo-expanded", sans-serif;
     font-size: 48px;
     font-weight: 500;
     line-height: 1.3;
@@ -56,7 +56,7 @@ main {
 }
 
 .subtext {
-    font-family: 'Cardo', serif;
+    font-family: "cardo", serif;
     font-size: 18px;
     line-height: 1.6;
     color: #000000;
@@ -68,7 +68,7 @@ footer {
 }
 
 .address {
-    font-family: 'Archivo', sans-serif;
+    font-family: "archivo", sans-serif;
     font-size: 11px;
     font-weight: 400;
     letter-spacing: 0.8px;
