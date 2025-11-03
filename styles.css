@@ -56,10 +56,11 @@ main {
 }
 
 .subtext {
-    font-family: "cardo", serif;
-    font-size: 18px;
-    line-height: 1.6;
+    text-align: center;
+    font: normal normal normal 24px/33px "cardo";
+    letter-spacing: 0px;
     color: #000000;
+    opacity: 1;
     margin-top: 30px;
 }
 
