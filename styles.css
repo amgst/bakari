@@ -25,12 +25,14 @@ header {
 }
 
 .logo {
-    font-family: "cardo", serif;
-    font-style: italic;
-    font-size: 40px;
-    font-weight: 400;
-    color: #000000;
-    letter-spacing: 1px;
+    margin: 0;
+    display: inline-block;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+    display: block;
 }
 
 main {
@@ -89,8 +91,8 @@ footer {
         padding: 30px 30px;
     }
 
-    .logo {
-        font-size: 28px;
+    .logo-img {
+        height: 28px;
     }
 
     main {
