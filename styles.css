@@ -30,7 +30,7 @@ header {
 }
 
 .logo-img {
-    height: 30px;
+    height: 40px;
     width: auto;
     display: block;
 }
@@ -92,7 +92,7 @@ footer {
     }
 
     .logo-img {
-        height: 21px;
+        height: 28px;
     }
 
     main {
